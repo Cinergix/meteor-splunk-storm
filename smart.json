@@ -1,6 +1,6 @@
 {
-      "name": "splunky",
-      "description": "Splunky is a smart package for Splunkstorm transport for Winston in Meteor",
+      "name": "splunk-storm",
+      "description": "Splunkstorm integration Meteor",
       "homepage": "https://github.com/Cinergix/meteor-splunk-storm",
       "author": "Cinergix Pty Ltd <ramishka@cinergix.com> (http://www.cinergix.com)",
       "version": "0.1.0",
