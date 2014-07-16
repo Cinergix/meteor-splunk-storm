@@ -1,7 +1,7 @@
-Splunkstorm intergration for Meteor - Ver. 0.1.0
+Splunkstorm integration for Meteor
 ================================================
 
-Splunkstorm is a smart package for [Splunkstorm](https://www.splunkstorm.com) transport for Winston in Meteor
+Splunkstorm is a smart package for [Splunkstorm](https://www.splunkstorm.com)
 
 Credits
 =======
@@ -21,7 +21,7 @@ This package depends on the [winston -  see documentation](https://github.com/fl
 Install
 -------
 
-    mrt add splunky
+    mrt add splunk-storm
 
 
 Use
@@ -45,7 +45,7 @@ License
 The MIT License (MIT)
 
 Copyright  (c) 2014 [Cinergix Pty. Ltd.](http://www.cinergix.com)
-	       2013 Nicolas Herment
+Copyright  (c) 2013 Nicolas Herment
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
