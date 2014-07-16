@@ -1,0 +1,11 @@
+{
+      "name": "splunky",
+      "description": "Splunky is a smart package for Splunkstorm transport for Winston in Meteor",
+      "homepage": "https://github.com/Cinergix/meteor-splunk-storm",
+      "author": "Cinergix Pty Ltd <ramishka@cinergix.com> (http://www.cinergix.com)",
+      "version": "0.1.0",
+      "git": "https://github.com/Cinergix/meteor-splunk-storm.git",
+      "packages": {
+        "winston": "0.0.3"
+      }
+}
