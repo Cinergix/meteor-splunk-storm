@@ -1,28 +1,31 @@
-Splunkstorm integration for Meteor
-================================================
+#Splunkstorm integration for Meteor
+==================================
 
 Splunkstorm is a smart package for [Splunkstorm](https://www.splunkstorm.com)
 
 
-Quick start
-===========
+##Getting Started
+===============
 
-Dependencies
-------------
+In order for the examples to work, you'll need a Splunk Storm account. If you don't already have one, you can get one from http://www.splunkstorm.com
 
-This package depends on the [winston -  see documentation](https://github.com/flatiron/winston)
+This package depends on the winston. [see documentation](https://github.com/flatiron/winston)
 
-    
+###Overview
+--------
 
-Install
+This example covers only logging to Splunk Storm via the REST API and making a test log using winston.
+
+###Install
 -------
 
     mrt add splunk-storm
 
 
-Usage
----
+###Usage
+-----
 
+```
     var logger = Winston;
 
     logger.add( SplunkStorm, {
@@ -32,22 +35,29 @@ Usage
     });
 
     logger.info("Hello Splunk Storm");
+```
+
+##Resources
+=========
+
+You can find anything having to do with Splunk Storm [here](http://splunkstorm.com).
+You can also find full reference [documentation](http://docs.splunk.com/Documentation/Storm/latest/User/UseStormsRESTAPI) of the REST API:
 
 
-Credits
+##Credits
 =======
 
 Thanks to Clint Sharp for the [Splunkstorm NPM](https://github.com/coccyx/splunkstorm) and Nicolas Herment for the [Winston-Splunkstorm NPM](https://github.com/nherment/winston-splunkstorm)
 
 
-License
+##License
 =======
 
-The MIT License (MIT)
+####The MIT License (MIT)
 
-Copyright (c) 2014 [Cinergix Pty. Ltd.](http://www.cinergix.com)
+Copyright (c)   2014 [Cinergix Pty. Ltd.](http://www.cinergix.com)
 
-Copyright (c) 2013 Nicolas Herment
+                2013 Nicolas Herment
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
