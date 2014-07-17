@@ -1,29 +1,26 @@
 #Splunkstorm integration for Meteor
 ==================================
-
 Splunkstorm is a smart package for [Splunkstorm](https://www.splunkstorm.com)
 
 
 ##Getting Started
-===============
+----------------
 
 In order for the examples to work, you'll need a Splunk Storm account. If you don't already have one, you can get one from http://www.splunkstorm.com
 
 This package depends on the winston. [see documentation](https://github.com/flatiron/winston)
 
 ###Overview
---------
 
 This example covers only logging to Splunk Storm via the REST API and making a test log using winston.
 
 ###Install
--------
 
+```
     mrt add splunk-storm
-
+```
 
 ###Usage
------
 
 ```
     var logger = Winston;
@@ -38,14 +35,12 @@ This example covers only logging to Splunk Storm via the REST API and making a t
 ```
 
 ##Resources
-=========
 
 You can find anything having to do with Splunk Storm [here](http://splunkstorm.com).
 You can also find full reference [documentation](http://docs.splunk.com/Documentation/Storm/latest/User/UseStormsRESTAPI) of the REST API:
 
 
 ##Credits
-=======
 
 Thanks to Clint Sharp for the [Splunkstorm NPM](https://github.com/coccyx/splunkstorm) and Nicolas Herment for the [Winston-Splunkstorm NPM](https://github.com/nherment/winston-splunkstorm)
 
@@ -57,7 +52,7 @@ Thanks to Clint Sharp for the [Splunkstorm NPM](https://github.com/coccyx/splunk
 
 Copyright (c)   2014 [Cinergix Pty. Ltd.](http://www.cinergix.com)
 
-                2013 Nicolas Herment
+Copyright (c)   2013 Nicolas Herment
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
