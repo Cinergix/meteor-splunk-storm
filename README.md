@@ -3,10 +3,6 @@ Splunkstorm integration for Meteor
 
 Splunkstorm is a smart package for [Splunkstorm](https://www.splunkstorm.com)
 
-Credits
-=======
-
-Thanks to Clint Sharp for the [Splunkstorm NPM](https://github.com/coccyx/splunkstorm) and Nicolas Herment for the [Winston-Splunkstorm NPM](https://github.com/nherment/winston-splunkstorm)
 
 Quick start
 ===========
@@ -24,7 +20,7 @@ Install
     mrt add splunk-storm
 
 
-Use
+Usage
 ---
 
     var logger = Winston;
@@ -37,6 +33,11 @@ Use
 
     logger.info("Hello Splunk Storm");
 
+
+Credits
+=======
+
+Thanks to Clint Sharp for the [Splunkstorm NPM](https://github.com/coccyx/splunkstorm) and Nicolas Herment for the [Winston-Splunkstorm NPM](https://github.com/nherment/winston-splunkstorm)
 
 
 License
