@@ -1,10 +1,10 @@
 #Splunkstorm integration for Meteor
-==================================
+
 Splunkstorm is a smart package for [Splunkstorm](https://www.splunkstorm.com)
 
 
 ##Getting Started
-----------------
+
 
 In order for the examples to work, you'll need a Splunk Storm account. If you don't already have one, you can get one from http://www.splunkstorm.com
 
@@ -46,7 +46,7 @@ Thanks to Clint Sharp for the [Splunkstorm NPM](https://github.com/coccyx/splunk
 
 
 ##License
-=======
+
 
 ####The MIT License (MIT)
 
