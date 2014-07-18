@@ -37,7 +37,7 @@ This example covers only logging to Splunk Storm via the REST API and making a t
 ##Resources
 
 You can find anything having to do with Splunk Storm [here](http://splunkstorm.com).
-You can also find full reference [documentation](http://docs.splunk.com/Documentation/Storm/latest/User/UseStormsRESTAPI) of the REST API:
+You can also find full reference [documentation](http://docs.splunk.com/Documentation/Storm/latest/User/UseStormsRESTAPI) of the REST API.
 
 
 ##Credits
