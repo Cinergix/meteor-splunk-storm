@@ -8,7 +8,7 @@ Splunkstorm is a smart package for [Splunkstorm](https://www.splunkstorm.com)
 
 In order for the examples to work, you'll need a Splunk Storm account. If you don't already have one, you can get one from http://www.splunkstorm.com
 
-This package depends on the winston. [see documentation](https://github.com/flatiron/winston)
+This package depends on [winston](https://atmospherejs.com/package/winston).  [see documentation.](https://github.com/flatiron/winston)
 
 ###Overview
 
